@@ -1,8 +1,1 @@
-# CsServer
-# CsServer
-# CsServer
-# CsServer
-# CsServer
-# CsServer
-# CsServer
-# servidorcs
+# Arquivos para o servidor de cs 1.6
