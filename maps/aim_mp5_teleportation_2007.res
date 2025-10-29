@@ -1,0 +1,3 @@
+maps/aim_mp5_teleportation.bsp
+maps/aim_mp5_teleportation.txt
+maps/aim_mp5_teleportation.res

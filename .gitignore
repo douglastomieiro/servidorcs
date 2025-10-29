@@ -1,0 +1,23 @@
+# Permite apenas conteúdo usado no FastDL
+!/maps/
+!/models/
+!/sound/
+!/sprites/
+!/gfx/
+!/resource/
+
+# Ignora logs, configs e outras coisas do servidor
+/addons/
+/cl_dlls/
+/classes/
+/dlls/
+/events/
+/manual/
+/overviews/
+/*.cfg
+/*.ini
+/*.txt
+/*.log
+/*.dll
+/*.so
+/*.exe
